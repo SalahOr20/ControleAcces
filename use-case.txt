@@ -1,0 +1,5 @@
+# ETANT DONNE un lecteur ayant détecté un badge valide
+# ET une porte
+# QUAND le contrôleur interroge ce lecteur
+# ALORS la porte reçoit un signal d'ouverture
+
